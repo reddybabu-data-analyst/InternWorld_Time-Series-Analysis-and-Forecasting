@@ -33,4 +33,4 @@ I used **Jupyter Notebook** along with the **Prophet library** to analyze trends
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+  https://github.com/reddybabu-data-analyst/InternWorld_Time-Series-Analysis-and-Forecasting/tree/main
